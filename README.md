@@ -1,4 +1,13 @@
+
 # SMART CITY WASTE SORTING ROBOT
+
+Group Members and roles:
+
+1. Dickson Mbogo - Program Developer
+2. Elisha Jilo - Electrical Systems Developer
+3. Shem Koech - Mechanical Designer
+
+
 Overview
 An autonomous system that classifies waste into three types—metal, plastic, and organic—using sensors and sorts them using three servo motors, each linked to a dedicated bin.
 
