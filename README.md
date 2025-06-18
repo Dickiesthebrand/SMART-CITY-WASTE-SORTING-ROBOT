@@ -2,7 +2,7 @@
 Overview
 An autonomous system that classifies waste into three types—metal, plastic, and organic—using sensors and sorts them using three servo motors, each linked to a dedicated bin.
 
-🔩 Working
+ Working
 Detection:
 
 Object placed on input chute.
