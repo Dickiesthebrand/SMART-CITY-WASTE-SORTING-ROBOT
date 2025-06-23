@@ -32,6 +32,8 @@ Microcontroller reads sensor output.
 Decides which servo to activate.
 
 Sorting:
+https://trello.com/invite/b/67b381944852fa081ac035bd/ATTI09b28d262ff8065e7019820daa05c8408FD4BF4F/smart-city
+trello link
 
 Servo 1 rotates chute to bin 1 for metal.
 
